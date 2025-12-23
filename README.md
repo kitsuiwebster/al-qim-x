@@ -1,4 +1,4 @@
-# Constructed Language
+# Al Qimëx
 
 Documentation for a constructed language with vocabulary, grammar and phonetic rules.
 
