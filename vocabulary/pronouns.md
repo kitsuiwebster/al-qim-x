@@ -1,4 +1,4 @@
-# Pronouns and Articles
+# Pronouns
 
 ## Personal Pronouns
 
@@ -23,15 +23,3 @@
 | mine        | malis        | molis  |
 | yours       | dalis        | dolis  |
 | his/hers    | delis/delas  | deles  |
-
-## Articles
-
-| Type           | Singular | Plural |
-|----------------|----------|--------|
-| definite       | al       | il     |
-| indefinite     | a        | i      |
-| some           | xol      | xol    |
-
-## Prepositions
-
-- **of:** om
