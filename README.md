@@ -1,6 +1,6 @@
 # Al Qimëx
 
-Documentation for a constructed language with vocabulary, grammar and phonetic rules.
+Hello I'm Raphaël, and I'm creating a whole human language.
 
 ## Quick Start
 
